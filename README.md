@@ -1,5 +1,7 @@
 # Coding exercises 
-        <li> LeetCode 
-	<li> Educative.io 
-	<li> Crack the coding interviews.
+<ol>
+        <li> LeetCode  </li>
+	<li> Educative.io </li>
+	<li> Crack the coding interviews.</li>
+</ol>
 
