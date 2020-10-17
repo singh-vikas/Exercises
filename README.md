@@ -1,4 +1,6 @@
 # Coding exercises 
-   LeetCode 
-	 Educative.io 
-	 Crack the coding interviews.
+<li>
+        <li> LeetCode 
+	<li> Educative.io 
+	<li> Crack the coding interviews.
+</li>
